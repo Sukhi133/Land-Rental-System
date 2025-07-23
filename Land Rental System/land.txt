@@ -1,0 +1,8 @@
+1,Kalanki,North,5,50000,Available
+2,Baneshwor,East,3,30000,Available
+3,Patan,South,4,40000,Not Available
+4,Bhaktapur,West,6,60000,Available
+5,Kalanki,North,5,50000,Available
+6,Baneshwor,East,3,30000,Available
+7,Patan,South,4,40000,Available
+8,Bhaktapur,West,6,60000,Available

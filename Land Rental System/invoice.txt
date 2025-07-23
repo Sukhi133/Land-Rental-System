@@ -1,0 +1,70 @@
+INVOICE GENERATED
+---------------------------------------------
+Name: sukhi
+Address: patan
+Phone: 980000000
+Transaction 1:
+Kitta no: 1
+Duration: 3
+Transaction time: 27-07-2024, 18:47:45
+Price per month: 50000
+Total Amount: 150000
+---------------------------------------------
+Total Amount for all transactions: 150000
+---------------------------------------------
+INVOICE GENERATED
+---------------------------------------------
+Name: sukhi
+Address: patan
+Phone: 980000000
+Transaction 1:
+Kitta no: 1
+Duration: 3
+Transaction time: 27-07-2024, 18:47:45
+Price per month: 50000
+Total Amount: 150000
+---------------------------------------------
+Transaction 2:
+Kitta no: 2
+Duration: 4
+Transaction time: 27-07-2024, 18:47:54
+Price per month: 30000
+Total Amount: 120000
+---------------------------------------------
+Total Amount for all transactions: 270000
+---------------------------------------------
+INVOICE GENERATED
+---------------------------------------------
+Name: sukhi
+Address: patan
+Phone: 980000000
+Transaction 1:
+Kitta no: 1
+Duration: 3
+Transaction time: 27-07-2024, 18:47:45
+Price per month: 50000
+Total Amount: 150000
+---------------------------------------------
+Transaction 2:
+Kitta no: 2
+Duration: 4
+Transaction time: 27-07-2024, 18:47:54
+Price per month: 30000
+Total Amount: 120000
+---------------------------------------------
+Total Amount for all transactions: 270000
+---------------------------------------------
+INVOICE GENERATED
+---------------------------------------------
+Name: sukhi
+Address: gwarko
+Phone: 9849534734
+Transaction 1:
+Kitta no: 3
+Duration: 5
+Transaction time: 27-07-2024, 18:55:40
+Price per month: 40000
+Total Amount: 200000
+---------------------------------------------
+Total Amount for all transactions: 200000
+---------------------------------------------
